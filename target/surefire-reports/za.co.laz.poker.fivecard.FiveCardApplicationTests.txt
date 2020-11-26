@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: za.co.laz.poker.fivecard.FiveCardApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.347 s - in za.co.laz.poker.fivecard.FiveCardApplicationTests

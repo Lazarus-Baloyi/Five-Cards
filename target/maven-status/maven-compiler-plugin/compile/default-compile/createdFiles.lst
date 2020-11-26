@@ -1,0 +1,9 @@
+za\co\laz\poker\fivecard\model\Card.class
+za\co\laz\poker\fivecard\model\Deck.class
+za\co\laz\poker\fivecard\controller\FiveCardController.class
+za\co\laz\poker\fivecard\infrastructure\DeckRepository.class
+za\co\laz\poker\fivecard\infrastructure\HandRepository.class
+za\co\laz\poker\fivecard\model\Hand.class
+za\co\laz\poker\fivecard\service\FiveCardServiceImpl.class
+za\co\laz\poker\fivecard\FiveCardApplication.class
+za\co\laz\poker\fivecard\service\FiveCardService.class
